@@ -1,6 +1,6 @@
 'use strict'
 
-const inc = (x) => {
+function inc(x) {
     x.n = x.n + 1;
 }
 

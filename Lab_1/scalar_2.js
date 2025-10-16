@@ -1,7 +1,7 @@
 'use strict'
 
 const a = 10;
-const inc = (x) => {
+function inc (x){
     x += 1;
     return x;
 }
